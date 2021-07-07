@@ -1,0 +1,97 @@
+
+
+body
+{
+  background-image: url('Pic2.jpg');
+  font-family:'comic sans ms',sns-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+#a:hover
+{
+  background-color: red;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+#b:hover
+{
+  background-color: orange;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+}
+#c:hover
+{
+  background-color: yellow;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+}
+#d:hover
+{
+  background-color:rgb(0,0,100);
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+}
+#e:hover
+{
+  background-color: rgb(0,0,225);
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+
+
+}
+#f:hover
+{
+  background-color:rgb(247, 32, 194);
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+
+
+}
+#g:hover
+{
+  background-color:green;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+h2,h1
+{
+  background:linear-gradient(45deg,orange,yellow);
+  padding:15px;
+  border-radius:60px 0px 60px 0px;
+  margin:auto;
+  width:500px;
+  box-shadow:0 0 10px black;
+  color:white;
+
+}
+table
+{
+  width:100%;
+}
+img
+{
+  border-radius:25px;
+
+}
+span
+{
+  align-content: center;
+}
+
+td
+{
+  text-align: center;
+}
+
